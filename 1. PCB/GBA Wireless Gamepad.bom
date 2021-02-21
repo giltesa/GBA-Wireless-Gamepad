@@ -1,0 +1,13 @@
+GBA Wireless Gamepad at 21/02/2021 15:39:20
+
+Assembly variant:
+
+Qty Value                  Device                 Parts
+1   1k                     R0603                  R1
+1   10k                    R0603                  R2
+1   LED                    LED-BLUE0603           L1
+1   RESET                  SWITCH_2P4.6X2.8MM     S1
+1   BOOT                   SWITCH_2P4.6X2.8MM     S2
+1   GBA EXT                GBA_EXT                J3
+1   UART-CP2102            UART-CP2102            J1
+1   ESP-WROOM-32           ESP32-WROOMNARROW      U1
