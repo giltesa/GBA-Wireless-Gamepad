@@ -3,6 +3,8 @@
 This is a “fork” of [Shyri GBA BT HID](https://github.com/Shyri/gba-bt-hid "Shyri GBA BT HID") project which allows your GBA to be used as Bluetooth gamepad.
 I wanted a professional board for soldering everything, so I made it, however you have to use his code (I put a copy of his project in mine).
 
+**I haven't been able to write the code yet, if you find an easier way to do that, please let me know it!**
+
 ![Game Boy Advance Wireless Gamepad](https://raw.githubusercontent.com/giltesa/GBA-Wireless-Gamepad/master/banner.png)
 
 ## License
