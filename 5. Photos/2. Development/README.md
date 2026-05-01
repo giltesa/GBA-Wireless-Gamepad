@@ -10,5 +10,5 @@ These photos document different stages of prototyping, and testing.
 ![IMG_20201006_225544](./IMG_20201006_225544.jpg)
 ![IMG_20201128_175057](./IMG_20201128_175057.jpg)
 ![P1170456](./P1170456.jpg)
-![P1170457](./P1170457.jpg)
-![P1170461](./P1170461.jpg)
+![P1170457](./P1170457.JPG)
+![P1170461](./P1170461.JPG)
