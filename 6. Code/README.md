@@ -3,13 +3,6 @@
 
 This project includes precompiled ESP32 firmware binaries, so you do **not** need to compile anything yourself.
 
-All required files are located in:
-
-```text
-6. Code
-```
-
----
 
 # Requirements
 
